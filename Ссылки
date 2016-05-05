@@ -1,1 +1,3 @@
 check-list: 
+gherkin syntax: http://docs.behat.org/en/v3.0/guides/1.gherkin.html
+Git learning: http://pcottle.github.io/learnGitBranching/
