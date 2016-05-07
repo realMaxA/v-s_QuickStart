@@ -7,3 +7,7 @@ Git LFS (https://git-lfs.github.com/)
 Source tree (https://www.sourcetreeapp.com/)
 putty (http://www.putty.org/)
 7-zip (http://www.7-zip.org/)
+Python 3.5 (https://www.python.org/)
+Visual Studio Code (http://code.visualstudio.com/)
+	Добавить поддержку Markdown
+	Добавить поддержку gherkin (cucumber)
