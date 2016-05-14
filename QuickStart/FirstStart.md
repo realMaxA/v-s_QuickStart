@@ -37,7 +37,8 @@ git submodule update --init --recursive
 для этого нужно выполнить команду меню "Файл -> Клонировать / Создать" и в
 открывшемся окне указать исходный путь
 (`https://github.com/silverbulleters/vanessa-behavior.git`) и целевой
-путь (`c:/Develop/vanessa-stack/vanessa-behavior`) [установка vanessa-behavior]: Img/VB-ST-Install-1.png "установка vanessa-behavior" .
+путь (`c:/Develop/vanessa-stack/vanessa-behavior`)
+![установка vanessa-behavior]: Img/VB-ST-Install-1.png "установка vanessa-behavior" .
 
 ##Использование
 
