@@ -38,7 +38,7 @@ git submodule update --init --recursive
 открывшемся окне указать исходный путь
 (`https://github.com/silverbulleters/vanessa-behavior.git`) и целевой
 путь (`c:/Develop/vanessa-stack/vanessa-behavior`)
-![установка vanessa-behavior]: Img/VB-ST-Install-1.png "установка vanessa-behavior" .
+![установка vanessa-behavior](Img/VB-ST-Install-1.png).
 
 ##Использование
 
