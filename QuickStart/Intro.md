@@ -60,7 +60,8 @@
     * [SourceTree](https://www.sourcetreeapp.com/) 
 * [Первый Старт](FirstStart.md)
     * [vanessa-behavior](https://github.com/silverbulleters/vanessa-behavior)
-* [Написание требований](FeatureWriting.md)
+
+<!---* [Написание требований](FeatureWriting.md)
     * [Visual Studio Code](https://code.visualstudio.com/)
     * [vanessa-bdd-editor](https://github.com/silverbulleters/vanessa-bdd-editor)
     * [Python](https://www.python.org/)
@@ -69,6 +70,4 @@
     * [xUnitFor1C](https://github.com/xDrivenDevelopment/xUnitFor1C)
 * [Автоматизация](Automation.md)
     * [vanessa-runner](https://github.com/silverbulleters/vanessa-runner)
-    
-[Описать]: # (FeatureWriting.md: git на проекте)
-[Описать]: # (UnitTests.md: дымовые тесты)
+--->
