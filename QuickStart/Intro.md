@@ -59,5 +59,15 @@
     * [Git](https://git-for-windows.github.io/)
     * [SourceTree](https://www.sourcetreeapp.com/) 
 * [Первый Старт](FirstStart.md)
-    * [vanessa-behavior](https://github.com/silverbulleters/vanessa-behavior.git)
-    
+    * [vanessa-behavior](https://github.com/silverbulleters/vanessa-behavior)
+
+<!---* [Написание требований](FeatureWriting.md)
+    * [Visual Studio Code](https://code.visualstudio.com/)
+    * [vanessa-bdd-editor](https://github.com/silverbulleters/vanessa-bdd-editor)
+    * [Python](https://www.python.org/)
+    * [v8unpack](https://github.com/dmpas/v8unpack)
+* [Юнит тестирование](UnitTests.md)
+    * [xUnitFor1C](https://github.com/xDrivenDevelopment/xUnitFor1C)
+* [Автоматизация](Automation.md)
+    * [vanessa-runner](https://github.com/silverbulleters/vanessa-runner)
+--->
